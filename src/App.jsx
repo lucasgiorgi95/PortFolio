@@ -3,6 +3,7 @@ import About from './components/About'
 import Home from './components/Home'
 import NavBar from './components/NavBar'
 import SocialLinks from './components/SocialLinks'
+import Portfolio from './components/Portfolio'
 
 function App() {
 
@@ -10,9 +11,10 @@ function App() {
     <div className="App">
      <NavBar/>
      <Home/>
+     <About/>
+     <Portfolio/>
 
      <SocialLinks/>
-     <About/>
     </div>
   )
 }
