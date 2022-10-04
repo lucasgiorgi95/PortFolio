@@ -5,7 +5,7 @@ import NavBar from './components/NavBar'
 import SocialLinks from './components/SocialLinks'
 import Portfolio from './components/Portfolio'
 import Experience from './components/Experience'
-import Component from './components/Component'
+import Copy from './components/Copy'
 
 function App() {
 
@@ -16,8 +16,7 @@ function App() {
      <About/>
      <Portfolio/>
      <Experience/>
-     <Component/>
-
+     <Copy/>
 
 
      <SocialLinks/>

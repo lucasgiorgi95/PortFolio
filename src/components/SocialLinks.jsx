@@ -27,15 +27,15 @@ const SocialLinks = () => {
             ),
             href:'https://github.com/lucasgiorgi95'
         },
-        // {
-        //     id:3,
-        //     child:(
-        //         <>
-        //         Mail <MailOutlineIcon/>
-        //         </>
-        //     ),
-        //     href:'mailto:lucas1995giorgi@gmail.com'
-        // },
+        {
+            id:3,
+            child:(
+                <>
+                Mail <MailOutlineIcon/>
+                </>
+            ),
+            href: "mailto:lucas1995giorgi@gmail.com",
+        },
         {
             id:4,
             child:(
